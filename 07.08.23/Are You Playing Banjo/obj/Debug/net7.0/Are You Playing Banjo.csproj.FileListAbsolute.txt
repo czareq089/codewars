@@ -1,0 +1,15 @@
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.csproj.AssemblyReference.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.AssemblyInfoInputs.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.AssemblyInfo.cs
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\bin\Debug\net7.0\Are You Playing Banjo.exe
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\bin\Debug\net7.0\Are You Playing Banjo.deps.json
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\bin\Debug\net7.0\Are You Playing Banjo.runtimeconfig.json
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\bin\Debug\net7.0\Are You Playing Banjo.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\bin\Debug\net7.0\Are You Playing Banjo.pdb
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\refint\Are You Playing Banjo.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.pdb
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\Are You Playing Banjo.genruntimeconfig.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Are You Playing Banjo\obj\Debug\net7.0\ref\Are You Playing Banjo.dll

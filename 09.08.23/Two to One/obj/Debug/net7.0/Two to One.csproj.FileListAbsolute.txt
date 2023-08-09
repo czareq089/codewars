@@ -1,0 +1,15 @@
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\bin\Debug\net7.0\Two to One.exe
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\bin\Debug\net7.0\Two to One.deps.json
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\bin\Debug\net7.0\Two to One.runtimeconfig.json
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\bin\Debug\net7.0\Two to One.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\bin\Debug\net7.0\Two to One.pdb
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.csproj.AssemblyReference.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.AssemblyInfoInputs.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.AssemblyInfo.cs
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\refint\Two to One.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.pdb
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\Two to One.genruntimeconfig.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Two to One\obj\Debug\net7.0\ref\Two to One.dll

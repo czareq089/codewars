@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\czareq089\\Code\\Codewars\\09.08.23\\Two to One\\Two to One.csproj",
-      "projectName": "Two to One",
-      "projectPath": "C:\\Users\\czareq089\\Code\\Codewars\\09.08.23\\Two to One\\Two to One.csproj",
+      "projectUniqueName": "C:\\Users\\czareq089\\Code\\Codewars\\07.08.23\\Convert a Number to a String\\Convert a Number to a String.csproj",
+      "projectName": "Convert a Number to a String",
+      "projectPath": "C:\\Users\\czareq089\\Code\\Codewars\\07.08.23\\Convert a Number to a String\\Convert a Number to a String.csproj",
       "packagesPath": "C:\\Users\\czareq089\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\czareq089\\Code\\Codewars\\09.08.23\\Two to One\\obj\\",
+      "outputPath": "C:\\Users\\czareq089\\Code\\Codewars\\07.08.23\\Convert a Number to a String\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\czareq089\\AppData\\Roaming\\NuGet\\NuGet.Config"

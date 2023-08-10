@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\czareq089\\Code\\Codewars\\10.08.23\\Your order please\\Your order please.csproj",
-      "projectName": "Your order please",
-      "projectPath": "C:\\Users\\czareq089\\Code\\Codewars\\10.08.23\\Your order please\\Your order please.csproj",
+      "projectUniqueName": "C:\\Users\\czareq089\\Code\\Codewars\\10.08.23\\Isograms\\Isograms.csproj",
+      "projectName": "Isograms",
+      "projectPath": "C:\\Users\\czareq089\\Code\\Codewars\\10.08.23\\Isograms\\Isograms.csproj",
       "packagesPath": "C:\\Users\\czareq089\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\czareq089\\Code\\Codewars\\10.08.23\\Your order please\\obj\\",
+      "outputPath": "C:\\Users\\czareq089\\Code\\Codewars\\10.08.23\\Isograms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\czareq089\\AppData\\Roaming\\NuGet\\NuGet.Config"

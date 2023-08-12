@@ -1,0 +1,15 @@
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.csproj.AssemblyReference.cache
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.AssemblyInfoInputs.cache
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.AssemblyInfo.cs
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.exe
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.deps.json
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.runtimeconfig.json
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.dll
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.pdb
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.dll
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\refint\Narcissistic Number.dll
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.pdb
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.genruntimeconfig.cache
+C:\Users\czareq089\Code\Codewars\06.08.23\Narcissistic Number\obj\Debug\net7.0\ref\Narcissistic Number.dll

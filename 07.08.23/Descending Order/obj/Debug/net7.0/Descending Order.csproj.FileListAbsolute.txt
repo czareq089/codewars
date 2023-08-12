@@ -1,0 +1,15 @@
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\bin\Debug\net7.0\Descending Order.exe
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\bin\Debug\net7.0\Descending Order.deps.json
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\bin\Debug\net7.0\Descending Order.runtimeconfig.json
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\bin\Debug\net7.0\Descending Order.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\bin\Debug\net7.0\Descending Order.pdb
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.csproj.AssemblyReference.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.AssemblyInfoInputs.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.AssemblyInfo.cs
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\refint\Descending Order.dll
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.pdb
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\Descending Order.genruntimeconfig.cache
+C:\Users\czareq089\Code\Codewars\07.08.23\Descending Order\obj\Debug\net7.0\ref\Descending Order.dll

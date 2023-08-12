@@ -1,0 +1,15 @@
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\bin\Debug\net7.0\Isograms.exe
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\bin\Debug\net7.0\Isograms.deps.json
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\bin\Debug\net7.0\Isograms.runtimeconfig.json
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\bin\Debug\net7.0\Isograms.dll
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\bin\Debug\net7.0\Isograms.pdb
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.csproj.AssemblyReference.cache
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.AssemblyInfoInputs.cache
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.AssemblyInfo.cs
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.dll
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\refint\Isograms.dll
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.pdb
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\Isograms.genruntimeconfig.cache
+C:\Users\czareq089\Code\Codewars\10.08.23\Isograms\obj\Debug\net7.0\ref\Isograms.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\czareq089\\Documents\\GitHub\\Codewars\\12.08.23\\Find the divisors\\Find the divisors.csproj",
-      "projectName": "Find the divisors",
-      "projectPath": "C:\\Users\\czareq089\\Documents\\GitHub\\Codewars\\12.08.23\\Find the divisors\\Find the divisors.csproj",
+      "projectUniqueName": "C:\\Users\\czareq089\\Code\\Codewars\\13.08.23\\String ends with question mark\\String ends with question mark.csproj",
+      "projectName": "String ends with question mark",
+      "projectPath": "C:\\Users\\czareq089\\Code\\Codewars\\13.08.23\\String ends with question mark\\String ends with question mark.csproj",
       "packagesPath": "C:\\Users\\czareq089\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\czareq089\\Documents\\GitHub\\Codewars\\12.08.23\\Find the divisors\\obj\\",
+      "outputPath": "C:\\Users\\czareq089\\Code\\Codewars\\13.08.23\\String ends with question mark\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\czareq089\\AppData\\Roaming\\NuGet\\NuGet.Config"

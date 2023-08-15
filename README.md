@@ -4,19 +4,7 @@ Witaj w moim repozytorium zawierającym rozwiązania zadań ze strony CodeWars. 
 
 ## Struktura Repozytorium
 
-├── Daya
-│ ├── Nazwa Zadania
-│ │ └── program.cs
-│ ├── Nazwa Zadania
-│ │ └── program.cs
-│ └── ...
-├── Inna Data
-│ ├── Nazwa Zadania
-│ │ └── program.cs
-│ ├── Nazwa Zadania
-│ │ └── program.cs
-│ └── ...
-└── ...
+├── Data -> Nazwa zadania -> program.cs
 
 W każdym folderze znajdują się foldery z nazwami zadań oraz pliki `program.cs` z rozwiązaniami zadań wykonanymi w danym dniu.
 

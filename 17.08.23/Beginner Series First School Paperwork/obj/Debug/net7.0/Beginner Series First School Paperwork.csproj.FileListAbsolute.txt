@@ -1,0 +1,15 @@
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.csproj.AssemblyReference.cache
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.AssemblyInfoInputs.cache
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.AssemblyInfo.cs
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\bin\Debug\net7.0\Beginner Series First School Paperwork.exe
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\bin\Debug\net7.0\Beginner Series First School Paperwork.deps.json
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\bin\Debug\net7.0\Beginner Series First School Paperwork.runtimeconfig.json
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\bin\Debug\net7.0\Beginner Series First School Paperwork.dll
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\bin\Debug\net7.0\Beginner Series First School Paperwork.pdb
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.dll
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\refint\Beginner Series First School Paperwork.dll
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.pdb
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\Beginner Series First School Paperwork.genruntimeconfig.cache
+C:\Users\czareq089\Code\Codewars\17.08.23\Beginner Series First School Paperwork\obj\Debug\net7.0\ref\Beginner Series First School Paperwork.dll

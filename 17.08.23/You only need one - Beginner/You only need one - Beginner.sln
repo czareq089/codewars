@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You only need one - Beginner", "You only need one - Beginner.csproj", "{CFCB2BE2-4540-4CFD-B66B-E66207DC3303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCB2BE2-4540-4CFD-B66B-E66207DC3303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCB2BE2-4540-4CFD-B66B-E66207DC3303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCB2BE2-4540-4CFD-B66B-E66207DC3303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCB2BE2-4540-4CFD-B66B-E66207DC3303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

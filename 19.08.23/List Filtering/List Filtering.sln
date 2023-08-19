@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Filtering", "List Filtering.csproj", "{864A24A6-5375-471C-9D8C-63387B4DC41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864A24A6-5375-471C-9D8C-63387B4DC41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864A24A6-5375-471C-9D8C-63387B4DC41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864A24A6-5375-471C-9D8C-63387B4DC41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864A24A6-5375-471C-9D8C-63387B4DC41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

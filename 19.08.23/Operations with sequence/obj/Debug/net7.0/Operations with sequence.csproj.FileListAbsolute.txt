@@ -1,0 +1,15 @@
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\bin\Debug\net7.0\Operations with sequence.exe
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\bin\Debug\net7.0\Operations with sequence.deps.json
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\bin\Debug\net7.0\Operations with sequence.runtimeconfig.json
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\bin\Debug\net7.0\Operations with sequence.dll
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\bin\Debug\net7.0\Operations with sequence.pdb
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.csproj.AssemblyReference.cache
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.AssemblyInfoInputs.cache
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.AssemblyInfo.cs
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.dll
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\refint\Operations with sequence.dll
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.pdb
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\Operations with sequence.genruntimeconfig.cache
+C:\Users\czareq089\Documents\GitHub\Codewars\19.08.23\Operations with sequence\obj\Debug\net7.0\ref\Operations with sequence.dll
